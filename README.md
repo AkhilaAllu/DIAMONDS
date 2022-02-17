@@ -1,9 +1,9 @@
 # DIAMONDS
 *Diamonds is a card based game for three players. A 52-card deck is used.
-*The game is to win diamond cards by bidding for that card using rest of the cards from other suits.
-*To start the game, diamond suit cards are kept aside. The rest of the players pick each card suit.
-*One of the diamond card is displayed to the players,the players need to bid for the card displayed by the banker and he keeps tracking thier values.
-*Points are awarded according to card values.
+The game is to win diamond cards by bidding for that card using rest of the cards from other suits.
+To start the game, diamond suit cards are kept aside. The rest of the players pick each card suit.
+One of the diamond card is displayed to the players,the players need to bid for the card displayed by the banker and he keeps tracking thier values.
+Points are awarded according to card values.
 
 ** RULES**
 1) To start the game, Diamond suit cards are kept aside. The rest of the players pick each card suit.
